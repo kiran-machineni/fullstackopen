@@ -1,1 +1,1 @@
-# https://fullstackopen.com/
+# [fullstackopen](https://fullstackopen.com/){:target="_blank"}
